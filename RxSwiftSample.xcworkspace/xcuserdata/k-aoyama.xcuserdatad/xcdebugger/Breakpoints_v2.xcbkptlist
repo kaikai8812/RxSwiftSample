@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "29D4B511-CB4E-4E78-BF94-3360E6A1CD43"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C28727A-D8F9-4DEA-AC0F-7BE32480D980"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwiftSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "bindCountTpText()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6C28727A-D8F9-4DEA-AC0F-7BE32480D980 - cd5c5e4b68687bef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwiftSample.ViewController.bindCountTpText() -&gt; ()"
+                  moduleName = "RxSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k-aoyama/Desktop/RxSwiftSample/RxSwiftSample/RxSwiftSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "6C28727A-D8F9-4DEA-AC0F-7BE32480D980 - 6823e62bf6f98554"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; () in RxSwiftSample.ViewController.bindCountTpText() -&gt; ()"
+                  moduleName = "RxSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k-aoyama/Desktop/RxSwiftSample/RxSwiftSample/RxSwiftSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "482B5147-88FC-4C02-B477-B817740A954C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RxSwiftSample/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "bindToButtonToValue()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "482B5147-88FC-4C02-B477-B817740A954C - b7bf1f02155b5f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RxSwiftSample.ViewController.bindToButtonToValue() -&gt; ()"
+                  moduleName = "RxSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k-aoyama/Desktop/RxSwiftSample/RxSwiftSample/RxSwiftSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "482B5147-88FC-4C02-B477-B817740A954C - 77abdd11e10b2f53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (()) -&gt; () in RxSwiftSample.ViewController.bindToButtonToValue() -&gt; ()"
+                  moduleName = "RxSwiftSample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/k-aoyama/Desktop/RxSwiftSample/RxSwiftSample/RxSwiftSample/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
