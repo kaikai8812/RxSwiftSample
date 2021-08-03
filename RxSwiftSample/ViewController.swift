@@ -17,8 +17,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var button: UIButton!
     @IBOutlet weak var Label: UILabel!
     
-    private let count: BehaviorRelay<Int>  = BehaviorRelay(value: 0)
-    private let disposeBag: DisposeBag = DisposeBag()
+    private let count: BehaviorRelay<Int>  = BehaviorRelay(value: 0)  //イベントの発生や、イベントの検知を行うことができるクラス 、　反応をするような変数に対して、この型で規定する？ 値はvalueで与えている。
+    private let disposeBag: DisposeBag = DisposeBag()  //メモリリークを回避するためのクラス
     
 
     override func viewDidLoad() {
